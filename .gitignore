@@ -6,3 +6,9 @@ build/
 /python/tiny_obj_loader.h
 /tests/tester
 /tests/tester.dSYM
+RelWithDebInfo
+Debug
+CMakeFiles
+*.cmake
+tinyobjloader.lib
+tinyobjloader.pc
